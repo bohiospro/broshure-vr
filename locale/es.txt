@@ -1,0 +1,38 @@
+#: locale=es
+
+## Tour
+
+### Descripción
+
+### Título
+tour.name = Recorrido virtual 
+
+## Media
+
+### Título
+panorama_C0CB1A65_C92E_BBEF_41CE_23E0574C4440.label = baño hab pri 2
+panorama_C0CC4B87_C92E_D92C_41B4_CF2445F507F2.label = comedor 2
+panorama_C0CC4FC2_C92E_D924_41C3_CBBAC662301D.label = closet hab seg
+panorama_C0CC50AF_C92E_A77C_41D1_76204425C83C.label = baño hab seg
+panorama_C0CC7D6E_C92E_F9FC_41E1_770007EB85E2.label = cocina3
+panorama_C0CC8073_C92F_67E4_41D3_509B9768580E.label = habitacion seg1 2
+panorama_C0CC88EC_C92F_58FD_41B8_25E5B37956A0.label = pasillo2
+panorama_C0CC8D92_C92F_7925_41DC_328B1184114A.label = habtacion seg1 2
+panorama_C0CC9821_C92E_A764_41D3_1142958E1350.label = closet hab pri
+panorama_C0CCA131_C92E_A964_41E1_FCF23A035FC9.label = habitacion seg 2 2
+panorama_C0CCA688_C92E_EB24_41E7_6FCE7AC80D63.label = cocina2
+panorama_C0CCAF36_C92F_596C_41A2_791B05343844.label = sala1
+panorama_C0CCB265_C92F_6BEC_41E5_9E4FE5210624.label = pasillo1
+panorama_C0CCB415_C92E_EF2C_41C1_2EA62C2636C4.label = comedor 1
+panorama_C0CCC961_C92E_B9E7_41D2_88002622CC3C.label = habitacion pri2
+panorama_C0CCE24D_C92E_AB3C_41C2_906FD881B124.label = habitacion pri1
+panorama_C0CCE96E_C92F_59FD_41DB_8C9EAA35CC78.label = habitacion seg 2 3
+panorama_C0CCF5B3_C92F_6964_41E6_1EFC59424433.label = habitacion seg2 1
+panorama_C0CDC705_C92F_A92F_41AC_D22AFC56DCBB.label = sala2
+panorama_C35F2E6F_C92D_5BFC_41C8_20F8BD00FF0E.label = baño hab pri 1
+
+## Acción
+
+### URL
+LinkBehaviour_DB0C9658_C97D_74AE_41DE_20DDE7D2DFC8.source = https://api.whatsapp.com/send?phone=18296840422&text=Me%20interesa%20este%20servicio%2C%20me%20puede%20brindar%20mas%20informacion.
+LinkBehaviour_DB862B03_C97E_DCA2_41D2_E3B72C25EFFE.source = https://api.whatsapp.com/send?phone=18296840422&text=Me%20interesa%20este%20servicio%2C%20me%20puede%20brindar%20mas%20informacion.
